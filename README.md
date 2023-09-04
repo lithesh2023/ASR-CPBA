@@ -39,19 +39,19 @@ Objective of the application is to resolve –
    - Mall supervisor
 ## Business Context
 **Stakeholders**
-1. Client
-2. Product Owner (PO)
-3. Application Architect
-4. FSE developers
-5. Data Base Architect
-6. QA Testers
+   1. Client
+   2. Product Owner (PO)
+   3. Application Architect
+   4. FSE developers
+   5. Data Base Architect
+   6. QA Testers
 ## Business Goals
 ### Following are the intended business goals the Car Parking Booking application is planning to address -
-1. Reduce parking congestion.
-3. Delays trying to find a Parking Spot
-4. Lack of Structured Parking due to unavailability of knowledge of empty Parking Spaces
-5. Wastage of Fuel and Time resulting in some form of personal loss
-6. Ease of Payment
+   1. Reduce parking congestion.
+   3. Delays trying to find a Parking Spot
+   4. Lack of Structured Parking due to unavailability of knowledge of empty Parking Spaces
+   5. Wastage of Fuel and Time resulting in some form of personal loss
+   6. Ease of Payment
 
 ## Constraints
  	 
