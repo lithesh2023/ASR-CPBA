@@ -1,5 +1,5 @@
 # ASR-CPBA
-Website for ASR Car Parking Booking Application
+ASR for Car Parking Booking Application
 
 ## Car parking booking Application
 
@@ -101,14 +101,14 @@ This regular integration enables developers to view each other’s changes quick
 
 ## CICD pipeline
 We have implemented CICD pipeline for our front-end app
-Repo for the frond-end application (React): https://github.com/lithesh2023/car-parking-booking-app-ui
+Repo for the frond-end application (React): [https://github.com/lithesh2023/car-parking-booking-app-ui](https://github.com/lithesh2023/car-parking-booking-app-ui)
 
 - Continues Integration (CI) – We have used Git Actions
 - Continues Deployment (CD) - We have used Flux
 
 ### Git Actions(CI) : Workflow
   
-- Workflow code: https://github.com/lithesh2023/car-parking-booking-app- ui/blob/main/.github/workflows/CI.yml
+- Workflow code: [https://github.com/lithesh2023/car-parking-booking-app- ui/blob/main/.github/workflows/CI.yml](https://github.com/lithesh2023/car-parking-booking-app-%20ui/blob/main/.github/workflows/CI.yml)
 - See the below screenshots for the same
 
 <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/0e9f22fd-dc4b-45a1-889d-1262df614ac8">
@@ -125,13 +125,13 @@ Repo for the frond-end application (React): https://github.com/lithesh2023/car-p
 ### Flux-CD
 We have used following repositories to automate the deployment to Kubernetes.
 litheshp/car-parking-booking-app-react
- Repo Link: https://hub.docker.com/repository/docker/litheshp/car-parking-booking-app-react/general
+ Repo Link: [https://hub.docker.com/repository/docker/litheshp/car-parking-booking-app-react/general](https://hub.docker.com/repository/docker/litheshp/car-parking-booking-app-react/general)
   
-1. Application Repo as Source: https://github.com/lithesh2023/car-parking-booking-app-ui
+1. Application Repo as Source: [https://github.com/lithesh2023/car-parking-booking-app-ui](https://github.com/lithesh2023/car-parking-booking-app-ui)
 
    <img width="143" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/f556728e-3f84-4733-919d-ebdc2f531b5f">
 
-2. Environmental Repo : https://github.com/lithesh2023/flux-image- updates/tree/main/clusters/my-cluster
+2. Environmental Repo : [https://github.com/lithesh2023/flux-image- updates/tree/main/clusters/my-cluster](https://github.com/lithesh2023/flux-image-%20updates/tree/main/clusters/my-cluster)
    
    <img width="107" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/a720eb91-df9e-4093-ba84-2f661cf8fcf5">
 
@@ -172,7 +172,7 @@ See the below screenshots for flux system
  
 ## UI Application
 We have developed few screens for the UI application.
-• UI Application: https://github.com/lithesh2023/car-parking-booking-app-ui
+• UI Application: [https://github.com/lithesh2023/car-parking-booking-app-ui](https://github.com/lithesh2023/car-parking-booking-app-ui)
 • Technology Used: React
 ## UI Screenshots
    <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/10f684de-eae6-4560-a157-3373294f049b">
@@ -181,8 +181,8 @@ We have developed few screens for the UI application.
 
 
 ## User Profile Service
-• User Profile Service: https://github.com/lithesh2023/User_Profile_Service
-• Swagger end points for User profile service: http://localhost:5000/api-docs/
+• User Profile Service: [https://github.com/lithesh2023/User_Profile_Service](https://github.com/lithesh2023/User_Profile_Service)
+• Swagger end points for User profile service: [http://localhost:5000/api-docs/](http://localhost:5000/api-docs/)
 • Database Used: Mongodb
 • Technology Used: Nodejs with express
   
@@ -197,8 +197,8 @@ We have developed few screens for the UI application.
 ## User Schema
  
 ## Payment Service
-- User Profile Service: https://github.com/lithesh2023/Payment_Service
-- Swagger end points for User profile service: http://localhost:3000/docs/
+- User Profile Service: [https://github.com/lithesh2023/Payment_Service](https://github.com/lithesh2023/Payment_Service)
+- Swagger end points for User profile service: [http://localhost:3000/docs/](http://localhost:3000/docs/)
 - Database Used: TBD
 - Technology Used: Next.js
 
@@ -206,26 +206,27 @@ We have developed few screens for the UI application.
  <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/ef323a5c-5791-4ba5-8e32-6b14e3108986">
 
 
-- Booking Service: https://github.com/lithesh2023/Booking_Service
+- Booking Service: [https://github.com/lithesh2023/Booking_Service](https://github.com/lithesh2023/Booking_Service)
 - Swagger end points for User profile service: TBD
 - Database Used: TBD
 - Technology Used: Next.js
   
 ## Report Service
-- Report Service: https://github.com/lithesh2023/Report_Service
+- Report Service: [https://github.com/lithesh2023/Report_Service](https://github.com/lithesh2023/Report_Service)
 - Swagger end points for User profile service: TBD
 - Database Used: TBD
 - Technology Used: TBD
 
 ## Parking Management
-- Parking Management Service: https://github.com/lithesh2023/Parking_Management
+- Parking Management Service: [https://github.com/lithesh2023/Parking_Management](https://github.com/lithesh2023/Parking_Management)
 - Swagger end points for User profile service: TBD
 - Database Used: TBD
 - Technology Used: TBD
   
 ## Navigation Service
-- Navigation Service: https://github.com/lithesh2023/Navigation_Service
+- Navigation Service: [https://github.com/lithesh2023/Navigation_Service](https://github.com/lithesh2023/Navigation_Service)
 - Swagger end points for User profile service: TBD
 - Database Used: TBD
 - Technology Used: TBD
+
   
