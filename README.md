@@ -51,15 +51,18 @@ IntegrationwithIoT(O)
 6. Ease of Payment
 
 ## Constraints
+ 	 
+<img width="680" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/3654281a-71ea-4105-a140-4f577731bdc6">
 
 
 
 ## Architecturally Significant Requirements 
-
-
-        
+  
+<img width="680" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/c8b0f0c6-baed-4955-88bc-0731d5e9947b">
+    
 ## Quality Attribute Requirements
-   
+<img width="680" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/7d7dab8f-330b-467b-b02f-c8714486f889">
+
 
 ## Influential Functional Requirements
 
@@ -139,19 +142,41 @@ litheshp/car-parking-booking-app-react
 6. Created image policy and image registry for automatic deployment when the tag changed on docker image
  
 See the below screenshots for flux system
-1. Starting Minikube
-2. Flux pre check
-3. Flux reconciliation with source
-4. All flux system
-5. All Kubernetes details(deployment, service, replica,pods)
-6. Access the UI app through tunnelling
 
+1. Starting Minikube
+
+   <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/d84d1895-a2c8-474a-a0d0-f76808b83861">
+   
+3. Flux pre check
+
+   <img width="300" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/16bda8ee-4e7c-4eed-ba89-1c60d3260a7e">
+ 
+5. Flux reconciliation with source
+
+   <img width="382" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/575e6e17-187f-4152-a79c-d238df712335">
+   
+7. All flux system
+
+   <img width="979" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/755a4903-f3b5-44f6-b9a8-cc22c01bc4ce">
+   
+9. All Kubernetes details(deployment, service, replica,pods)
+
+   <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/14a1c65a-bcd3-472b-9d07-dc5a84096c82">
+   
+11. Access the UI app through tunnelling
+ 
+    <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/375aa937-1f23-48dd-8221-e4fb7fc31315">
+ 
 ## UI Application
 We have developed few screens for the UI application.
 • UI Application: https://github.com/lithesh2023/car-parking-booking-app-ui
 • Technology Used: React
 ## UI Screenshots
-   
+   <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/10f684de-eae6-4560-a157-3373294f049b">
+   <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/9e774891-2443-49e7-a120-410ce0e60b53">
+   <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/6a33a140-1652-4cdf-b38c-467339e4b1ea">
+
+
 ## User Profile Service
 • User Profile Service: https://github.com/lithesh2023/User_Profile_Service
 • Swagger end points for User profile service: http://localhost:5000/api-docs/
@@ -162,7 +187,9 @@ We have developed few screens for the UI application.
 1. Application specific Login
 2. Facebook Authentication
 3. Google Authentication
-Screenshots
+**Screenshots**
+<img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/ac4a0063-f198-4ff5-b83d-5db176760007">
+<img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/d6754a50-f6c9-4874-a841-0ba2271c18d5">
 
 ## User Schema
  
@@ -172,7 +199,10 @@ Screenshots
 - Database Used: TBD
 - Technology Used: Next.js
 
-## Screenshots
+ **Screenshots**
+ <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/ef323a5c-5791-4ba5-8e32-6b14e3108986">
+
+
 - Booking Service: https://github.com/lithesh2023/Booking_Service
 - Swagger end points for User profile service: TBD
 - Database Used: TBD
