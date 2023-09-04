@@ -20,7 +20,7 @@ Objective of the application is to resolve –
 - Wastage of Fuel and Time resulting in some form of personal loss
 - Ease of Payment
 
-### Following are the scope of the application :-
+***Following are the scope of the application***
 - **Search and Compare**-Forusers,theonlinesystemoffersaconvenient way to search for available parking slots, Compare the slots based upon the features like, floor, distance from entry/exit gate etc.
 
 - **Booking**-Booktheparkinginadvance(maximum2daysadvance)and navigate to the designated spot using integrated navigation features. Users can also make cashless payments for parking fees through secure online transactions, eliminating the need for physical tickets and reducing waiting times.
@@ -31,7 +31,7 @@ Objective of the application is to resolve –
 - **IntegrationwithIoT(O)**
 
 ## Intended Audience
-### Following are the intended audiences for the system –
+***Following are the intended audiences for the system***
 1. CarOwners(Registered/Unregisteredusers)
 2. Admin
    - MallOwner(O)
@@ -48,7 +48,7 @@ Objective of the application is to resolve –
    6. QA Testers
 
 ## Business Goals
-### Following are the intended business goals the Car Parking Booking application is planning to address -
+***Following are the intended business goals the Car Parking Booking application is planning to address**
    1. Reduce parking congestion.
    3. Delays trying to find a Parking Spot
    4. Lack of Structured Parking due to unavailability of knowledge of empty Parking Spaces
@@ -108,7 +108,7 @@ Repo for the frond-end application (React): [https://github.com/lithesh2023/car-
 - Continues Integration (CI) – We have used Git Actions
 - Continues Deployment (CD) - We have used Flux
 
-### Git Actions(CI) : Workflow
+**Git Actions(CI) : Workflow**
   
 - Workflow code: [https://github.com/lithesh2023/car-parking-booking-app- ui/blob/main/.github/workflows/CI.yml](https://github.com/lithesh2023/car-parking-booking-app-%20ui/blob/main/.github/workflows/CI.yml)
 - See the below screenshots for the same
@@ -124,7 +124,7 @@ Repo for the frond-end application (React): [https://github.com/lithesh2023/car-
 1. Docker Repo:
 <img width="247" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/f8aa937f-60e8-4e13-a2d0-10828f99ce39">
 
-### Flux-CD
+**Flux (CD)**
 We have used following repositories to automate the deployment to Kubernetes.
 litheshp/car-parking-booking-app-react
  Repo Link: [https://hub.docker.com/repository/docker/litheshp/car-parking-booking-app-react/general](https://hub.docker.com/repository/docker/litheshp/car-parking-booking-app-react/general)
@@ -137,7 +137,7 @@ litheshp/car-parking-booking-app-react
    
    <img width="107" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/a720eb91-df9e-4093-ba84-2f661cf8fcf5">
 
-### The steps used for Flux
+**The steps used for Flux**
 1. Bootstrap flux
    > flux bootstrap github --owner=$GITHUB_USER -—repository=car-parking-booking-env --branch=main --path=./clusters/my-cluster –personal!
 3. Create source
@@ -179,7 +179,7 @@ See the below screenshots for flux system
 We have developed few screens for the UI application.
 - UI Application: [https://github.com/lithesh2023/car-parking-booking-app-ui](https://github.com/lithesh2023/car-parking-booking-app-ui)
 - Technology Used: React
-### UI Screenshots
+**UI Screenshots**
    <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/10f684de-eae6-4560-a157-3373294f049b">
    <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/9e774891-2443-49e7-a120-410ce0e60b53">
    <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/6a33a140-1652-4cdf-b38c-467339e4b1ea">
