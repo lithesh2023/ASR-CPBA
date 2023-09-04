@@ -19,21 +19,24 @@ Objective of the application is to resolve –
 - Lack of Structured Parking due to unavailability of knowledge of empty Parking Spaces
 - Wastage of Fuel and Time resulting in some form of personal loss
 - Ease of Payment
+
 ### Following are the scope of the application :-
-**SearchandCompare**-Forusers,theonlinesystemoffersaconvenient way to search for available parking slots, Compare the slots based upon the features like, floor, distance from entry/exit gate etc.
-**Booking**-Booktheparkinginadvance(maximum2daysadvance)and navigate to the designated spot using integrated navigation features. Users can also make cashless payments for parking fees through secure online transactions, eliminating the need for physical tickets and reducing waiting times.
-**History–Bookinghistory**,
-ParkingManagement(AddParkingslots/pricing/billing–admin features)
-Integratedrivingdirection(O)
-IntegrationwithChatsystem
-IntegrationwithIoT(O)
+- **Search and Compare**-Forusers,theonlinesystemoffersaconvenient way to search for available parking slots, Compare the slots based upon the features like, floor, distance from entry/exit gate etc.
+
+- **Booking**-Booktheparkinginadvance(maximum2daysadvance)and navigate to the designated spot using integrated navigation features. Users can also make cashless payments for parking fees through secure online transactions, eliminating the need for physical tickets and reducing waiting times.
+- **History** –Booking history,
+- **ParkingManagement(AddParkingslots/pricing/billing–admin features)**
+- **Integratedrivingdirection(O)**
+- **IntegrationwithChatsystem**
+- **IntegrationwithIoT(O)**
+
 ## Intended Audience
 ### Following are the intended audiences for the system –
 1. CarOwners(Registered/Unregisteredusers)
 2. Admin
-- MallOwner(O)
-- Malla dministrator
-- Mall supervisor
+   - MallOwner(O)
+   - Malla dministrator
+   - Mall supervisor
 ## Business Context
 **Stakeholders**
 1. Client
