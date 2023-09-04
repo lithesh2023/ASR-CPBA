@@ -191,11 +191,11 @@ We have developed few screens for the UI application.
 - Database Used: Mongodb
 - Technology Used: Nodejs with express
   
-### Login/Signup Options
+**Login/Signup Options**
 
-1. Application specific Login
-2. Facebook Authentication
-3. Google Authentication
+   1. Application specific Login
+   2. Facebook Authentication
+   3. Google Authentication
 
 **Screenshots**
 
