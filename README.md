@@ -188,7 +188,7 @@ We have developed few screens for the UI application.
 ### User Profile Service
 -  User Profile Service: [https://github.com/lithesh2023/User_Profile_Service](https://github.com/lithesh2023/User_Profile_Service)
 -  Swagger end points for User profile service: [http://localhost:5000/api-docs/](http://localhost:5000/api-docs/)
-- Database Used: Mongodb
+- Database Used: Postgres SQL
 - Technology Used: Nodejs with express
   
 **Login/Signup Options**
@@ -215,25 +215,25 @@ We have developed few screens for the UI application.
 
 - Booking Service: [https://github.com/lithesh2023/Booking_Service](https://github.com/lithesh2023/Booking_Service)
 - Swagger end points for User profile service: TBD
-- Database Used: TBD
+- Database Used: Postgres SQL
 - Technology Used: Next.js
   
 ### Report Service
 - Report Service: [https://github.com/lithesh2023/Report_Service](https://github.com/lithesh2023/Report_Service)
 - Swagger end points for User profile service: TBD
-- Database Used: TBD
+- Database Used: Postgres SQL
 - Technology Used: TBD
 
 ###  Parking Management
 - Parking Management Service: [https://github.com/lithesh2023/Parking_Management](https://github.com/lithesh2023/Parking_Management)
 - Swagger end points for User profile service: TBD
-- Database Used: TBD
+- Database Used: Postgres SQL
 - Technology Used: TBD
   
 ###  Navigation Service
 - Navigation Service: [https://github.com/lithesh2023/Navigation_Service](https://github.com/lithesh2023/Navigation_Service)
 - Swagger end points for User profile service: TBD
-- Database Used: TBD
+- Database Used: Postgres SQL
 - Technology Used: TBD
 
 
