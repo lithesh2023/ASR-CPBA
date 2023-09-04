@@ -95,10 +95,11 @@ This regular integration enables developers to view each other’s changes quick
 
 ## CICD pipeline
 We have implemented CICD pipeline for our front-end app
-Repo for the frond-end application (React): https://github.com/lithesh2023/car-parking-
-### booking-app-ui
+Repo for the frond-end application (React): https://github.com/lithesh2023/car-parking-booking-app-ui
+
 - Continues Integration (CI) – We have used Git Actions
 - Continues Deployment (CD) - We have used Flux
+
 ### Git Actions(CI) : Workflow
   
 - Workflow code: https://github.com/lithesh2023/car-parking-booking-app- ui/blob/main/.github/workflows/CI.yml
@@ -110,8 +111,9 @@ Repo for the frond-end application (React): https://github.com/lithesh2023/car-p
 
 <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/61541716-8dc3-453b-9b86-49e69bf6e107">
 
-
-- Deployed the docker image to Docker hub through workflow 1. Docker Repo:
+- Deployed the docker image to Docker hub through workflow
+  
+1. Docker Repo:
 <img width="247" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/f8aa937f-60e8-4e13-a2d0-10828f99ce39">
 
 ### Flux-CD
@@ -132,12 +134,10 @@ litheshp/car-parking-booking-app-react
    > flux bootstrap github --owner=$GITHUB_USER -—repository=car-parking-booking-env --branch=main --path=./clusters/my-cluster –personal!
 3. Create source
    > flux create source git car-parking-booking-app-ui --url=https://github.com/lithesh2023/car-parking-booking-app-ui  -—branch=main --interval=1m --export > ./clusters/my-cluster/car-parking-booking-app-ui-source.yaml
-
 5. Create kustomization
    > flux create kustomization car-parking-booking-app-ui --target-namespace=default --source=podinfo --path="./kustomize" --prune=true --wait=true --interval=30m --retry-interval=2m --health-check-timeout=3m --export > ./clusters/my-cluster/car-parking-booking-app-ui-kustomization.yaml
-
 6. Created image policy and image registry for automatic deployment when the tag changed on docker image
-   
+ 
 See the below screenshots for flux system
 1. Starting Minikube
 2. Flux pre check
@@ -145,6 +145,7 @@ See the below screenshots for flux system
 4. All flux system
 5. All Kubernetes details(deployment, service, replica,pods)
 6. Access the UI app through tunnelling
+
 ## UI Application
 We have developed few screens for the UI application.
 • UI Application: https://github.com/lithesh2023/car-parking-booking-app-ui
@@ -162,6 +163,7 @@ We have developed few screens for the UI application.
 2. Facebook Authentication
 3. Google Authentication
 Screenshots
+
 ## User Schema
  
 ## Payment Service
@@ -169,11 +171,13 @@ Screenshots
 - Swagger end points for User profile service: http://localhost:3000/docs/
 - Database Used: TBD
 - Technology Used: Next.js
+
 ## Screenshots
 - Booking Service: https://github.com/lithesh2023/Booking_Service
 - Swagger end points for User profile service: TBD
 - Database Used: TBD
 - Technology Used: Next.js
+  
 ## Report Service
 - Report Service: https://github.com/lithesh2023/Report_Service
 - Swagger end points for User profile service: TBD
@@ -185,6 +189,7 @@ Screenshots
 - Swagger end points for User profile service: TBD
 - Database Used: TBD
 - Technology Used: TBD
+  
 ## Navigation Service
 - Navigation Service: https://github.com/lithesh2023/Navigation_Service
 - Swagger end points for User profile service: TBD
