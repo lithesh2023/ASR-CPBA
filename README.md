@@ -37,6 +37,7 @@ Objective of the application is to resolve –
    - MallOwner(O)
    - Malla dministrator
    - Mall supervisor
+
 ## Business Context
 **Stakeholders**
    1. Client
@@ -45,6 +46,7 @@ Objective of the application is to resolve –
    4. FSE developers
    5. Data Base Architect
    6. QA Testers
+
 ## Business Goals
 ### Following are the intended business goals the Car Parking Booking application is planning to address -
    1. Reduce parking congestion.
