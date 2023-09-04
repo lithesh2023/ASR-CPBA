@@ -170,33 +170,34 @@ See the below screenshots for flux system
  
     <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/375aa937-1f23-48dd-8221-e4fb7fc31315">
  
-## UI Application
+## Database ER Diagram
+ ![image](https://github.com/lithesh2023/ASR-CPBA/assets/138496677/eb1d5379-e7b6-4e9e-b181-922e420ddba6)
+
+###  UI Application
 We have developed few screens for the UI application.
-• UI Application: [https://github.com/lithesh2023/car-parking-booking-app-ui](https://github.com/lithesh2023/car-parking-booking-app-ui)
-• Technology Used: React
-## UI Screenshots
+- UI Application: [https://github.com/lithesh2023/car-parking-booking-app-ui](https://github.com/lithesh2023/car-parking-booking-app-ui)
+- Technology Used: React
+### UI Screenshots
    <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/10f684de-eae6-4560-a157-3373294f049b">
    <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/9e774891-2443-49e7-a120-410ce0e60b53">
    <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/6a33a140-1652-4cdf-b38c-467339e4b1ea">
 
 
-## User Profile Service
-• User Profile Service: [https://github.com/lithesh2023/User_Profile_Service](https://github.com/lithesh2023/User_Profile_Service)
-• Swagger end points for User profile service: [http://localhost:5000/api-docs/](http://localhost:5000/api-docs/)
-• Database Used: Mongodb
-• Technology Used: Nodejs with express
+### User Profile Service
+-  User Profile Service: [https://github.com/lithesh2023/User_Profile_Service](https://github.com/lithesh2023/User_Profile_Service)
+-  Swagger end points for User profile service: [http://localhost:5000/api-docs/](http://localhost:5000/api-docs/)
+- Database Used: Mongodb
+- Technology Used: Nodejs with express
   
-## Login/Signup Options
+### Login/Signup Options
 1. Application specific Login
 2. Facebook Authentication
 3. Google Authentication
 **Screenshots**
 <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/ac4a0063-f198-4ff5-b83d-5db176760007">
 <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/d6754a50-f6c9-4874-a841-0ba2271c18d5">
-
-## User Schema
  
-## Payment Service
+### Payment Service
 - User Profile Service: [https://github.com/lithesh2023/Payment_Service](https://github.com/lithesh2023/Payment_Service)
 - Swagger end points for User profile service: [http://localhost:3000/docs/](http://localhost:3000/docs/)
 - Database Used: TBD
@@ -211,22 +212,20 @@ We have developed few screens for the UI application.
 - Database Used: TBD
 - Technology Used: Next.js
   
-## Report Service
+### Report Service
 - Report Service: [https://github.com/lithesh2023/Report_Service](https://github.com/lithesh2023/Report_Service)
 - Swagger end points for User profile service: TBD
 - Database Used: TBD
 - Technology Used: TBD
 
-## Parking Management
+###  Parking Management
 - Parking Management Service: [https://github.com/lithesh2023/Parking_Management](https://github.com/lithesh2023/Parking_Management)
 - Swagger end points for User profile service: TBD
 - Database Used: TBD
 - Technology Used: TBD
   
-## Navigation Service
+###  Navigation Service
 - Navigation Service: [https://github.com/lithesh2023/Navigation_Service](https://github.com/lithesh2023/Navigation_Service)
 - Swagger end points for User profile service: TBD
 - Database Used: TBD
 - Technology Used: TBD
-
-  
