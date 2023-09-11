@@ -1,5 +1,5 @@
-# ASR-CPBA
-ASR for Car Parking Booking Application
+# Car Parking Booking Application 
+ASR document for Car Parking Booking Application
 
 ## Car parking booking Application
 
@@ -74,6 +74,16 @@ Objective of the application is to resolve –
 1. Payment gateway
 2. Chat application external
 3. History
+
+## Non-Functional Requirements:
+
+* ﻿﻿The application has to run 24*7
+* ﻿﻿There will be 50k-100k DAU and around 30-4omillion MAU.
+* There will be average 10-15k bookings happening in one day.
+*  The app has to be always up and running without any downtime in case of disaster.
+*  Each booking completion should take max 2 seconds.
+* ﻿﻿Any search operation on the app should take max 1 seconds.
+*  All the payments and user data should be securely stored and accessed.
 
 ## Context Diagram
   <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/4c8f9a00-1c86-49d7-b060-44d7d2b9bc48">
@@ -177,12 +187,13 @@ See the below screenshots for flux system
 
 ##  UI Application
 We have developed few screens for the UI application.
-- UI Application: [https://github.com/lithesh2023/car-parking-booking-app-ui](https://github.com/lithesh2023/car-parking-booking-app-ui)
-- Technology Used: React
-**UI Screenshots**
-   <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/10f684de-eae6-4560-a157-3373294f049b">
-   <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/9e774891-2443-49e7-a120-410ce0e60b53">
-   <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/6a33a140-1652-4cdf-b38c-467339e4b1ea">
+- UI Application: <img width="1123" alt="Screenshot 2023-09-11 at 5 26 39 PM" src="https://github.com/lithesh2023/ASR-CPBA/assets/16690487/109a48a2-185a-4204-a151-1c660168c0f2">
+
+- Technology Used: React <br />
+**UI Screenshots** <br />
+  Sign Up <img width="1037" alt="Screenshot 2023-09-11 at 5 27 19 PM" src="https://github.com/lithesh2023/ASR-CPBA/assets/16690487/34b8289c-cac3-4389-b8fe-dc1d7aa80130">  <br />
+  Log in <img width="1050" alt="Screenshot 2023-09-11 at 5 26 55 PM" src="https://github.com/lithesh2023/ASR-CPBA/assets/16690487/40414d6f-6881-44ab-84b4-7d435e04da63">  <br />
+  My Vehicle <img width="1066" alt="Screenshot 2023-09-11 at 5 27 56 PM" src="https://github.com/lithesh2023/ASR-CPBA/assets/16690487/166c6837-95c9-41bb-a28c-cba922202a88">  <br />
 
 ## Microservices
 ### User Profile Service
