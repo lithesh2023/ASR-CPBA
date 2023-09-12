@@ -205,12 +205,12 @@ We have developed few screens for the UI application.
 **Login/Signup Options**
 
    1. Application specific Login
-   2. Facebook Authentication
-   3. Google Authentication
+ 
 
 **Screenshots**
 
-<img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/ac4a0063-f198-4ff5-b83d-5db176760007">
+<img width="1481" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/f6b4bbc5-089e-4704-a76b-83945ac18978">
+
 
 <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/d6754a50-f6c9-4874-a841-0ba2271c18d5">
  
