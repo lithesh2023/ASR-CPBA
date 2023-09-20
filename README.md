@@ -226,7 +226,8 @@ We have developed few screens for the UI application.
 ### 3. Booking Service:
 
 - Booking Service: [https://github.com/lithesh2023/Booking_Service](https://github.com/lithesh2023/Booking_Service)
-- Swagger end points for User profile service: TBD
+- End points for Booking Service:
+  <img width="294" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/dfd78b28-ccf7-4194-bdc9-5ddbe281496b">
 - Database Used: Postgres SQL
 - Technology Used: Node.js
 
