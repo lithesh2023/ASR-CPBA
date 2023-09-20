@@ -196,7 +196,7 @@ We have developed few screens for the UI application.
   My Vehicle <img width="1066" alt="Screenshot 2023-09-11 at 5 27 56 PM" src="https://github.com/lithesh2023/ASR-CPBA/assets/16690487/166c6837-95c9-41bb-a28c-cba922202a88">  <br />
 
 ## Microservices
-### User Profile Service
+### 1. User Profile Service
 -  User Profile Service: [https://github.com/lithesh2023/User_Profile_Service](https://github.com/lithesh2023/User_Profile_Service)
 -  Swagger end points for User profile service: [http://localhost:5000/api-docs/](http://localhost:5000/api-docs/)
 - Database Used: Postgres SQL
@@ -214,7 +214,7 @@ We have developed few screens for the UI application.
 
 <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/d6754a50-f6c9-4874-a841-0ba2271c18d5">
  
-### Payment Service
+### 2. Payment Service
 - User Profile Service: [https://github.com/lithesh2023/Payment_Service](https://github.com/lithesh2023/Payment_Service)
 - Swagger end points for User profile service: [http://localhost:3000/docs/](http://localhost:3000/docs/)
 - Database Used: Postgres SQL
@@ -223,7 +223,7 @@ We have developed few screens for the UI application.
  **Screenshots**
  <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/ef323a5c-5791-4ba5-8e32-6b14e3108986">
 
-### Booking Service:
+### 3. Booking Service:
 
 - Booking Service: [https://github.com/lithesh2023/Booking_Service](https://github.com/lithesh2023/Booking_Service)
 - Swagger end points for User profile service: TBD
