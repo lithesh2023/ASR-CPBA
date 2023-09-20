@@ -197,8 +197,9 @@ We have developed the UI application and integrated with the back-end microservi
 
 ## Microservices
 ### 1. User Profile Service
--  User Profile Service: [https://github.com/lithesh2023/User_Profile_Service](https://github.com/lithesh2023/User_Profile_Service)
--  Swagger end points for User profile service: [http://localhost:5000/api-docs/](http://localhost:5000/api-docs/)
+- Used for User registration, Authentication and Autherization. This is using Token based Authentication.
+- User Profile Service: [https://github.com/lithesh2023/User_Profile_Service](https://github.com/lithesh2023/User_Profile_Service)
+- Swagger end points for User profile service: [http://localhost:5000/api-docs/](http://localhost:5000/api-docs/)
 - Database Used: Postgres SQL
 - Technology Used: Nodejs with express
   
@@ -215,6 +216,7 @@ We have developed the UI application and integrated with the back-end microservi
 <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/d6754a50-f6c9-4874-a841-0ba2271c18d5">
  
 ### 2. Payment Service
+- Used for payment services for parking slot booking.
 - User Profile Service: [https://github.com/lithesh2023/Payment_Service](https://github.com/lithesh2023/Payment_Service)
 - Swagger end points for User profile service: [http://localhost:3000/docs/](http://localhost:3000/docs/)
 - Database Used: Postgres SQL
@@ -225,6 +227,7 @@ We have developed the UI application and integrated with the back-end microservi
 
 ### 3. Booking Service:
 
+- Used for Booking related services. Booking parkig slot, Adding vehicle for user , Adding slots, Removing Vehicle, Delete Booking
 - Booking Service: [https://github.com/lithesh2023/Booking_Service](https://github.com/lithesh2023/Booking_Service)
 - End points for Booking Service:
   <img width="294" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/dfd78b28-ccf7-4194-bdc9-5ddbe281496b">
