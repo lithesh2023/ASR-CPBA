@@ -186,7 +186,7 @@ See the below screenshots for flux system
 ![image](https://github.com/lithesh2023/ASR-CPBA/assets/138496677/98c78141-fe8f-4a21-8062-7b48256fe700)
 
 ##  UI Application
-We have developed few screens for the UI application.
+We have developed the UI application and integrated with the back-end microservices.
 - UI Application: <img width="1123" alt="Screenshot 2023-09-11 at 5 26 39 PM" src="https://github.com/lithesh2023/ASR-CPBA/assets/16690487/109a48a2-185a-4204-a151-1c660168c0f2">
 
 - Technology Used: React <br />
