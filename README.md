@@ -143,8 +143,7 @@ litheshp/car-parking-booking-app-react
 
    <img width="143" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/f556728e-3f84-4733-919d-ebdc2f531b5f">
 
-2. Environmental Repo : [https://github.com/lithesh2023/flux-image- updates/tree/main/clusters/my-cluster](https://github.com/lithesh2023/flux-image-%20updates/tree/main/clusters/my-cluster)
-   
+2. Environmental Repo : [https://github.com/lithesh2023/flux-image-updates](https://github.com/lithesh2023/flux-image-updates)
    <img width="107" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/a720eb91-df9e-4093-ba84-2f661cf8fcf5">
 
 **The steps used for Flux**
