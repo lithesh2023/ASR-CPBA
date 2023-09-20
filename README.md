@@ -217,35 +217,19 @@ We have developed few screens for the UI application.
 ### Payment Service
 - User Profile Service: [https://github.com/lithesh2023/Payment_Service](https://github.com/lithesh2023/Payment_Service)
 - Swagger end points for User profile service: [http://localhost:3000/docs/](http://localhost:3000/docs/)
-- Database Used: TBD
+- Database Used: Postgres SQL
 - Technology Used: Next.js
 
  **Screenshots**
  <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/ef323a5c-5791-4ba5-8e32-6b14e3108986">
 
+### Booking Service:
 
 - Booking Service: [https://github.com/lithesh2023/Booking_Service](https://github.com/lithesh2023/Booking_Service)
 - Swagger end points for User profile service: TBD
 - Database Used: Postgres SQL
-- Technology Used: Next.js
-  
-### Report Service
-- Report Service: [https://github.com/lithesh2023/Report_Service](https://github.com/lithesh2023/Report_Service)
-- Swagger end points for User profile service: TBD
-- Database Used: Postgres SQL
-- Technology Used: TBD
+- Technology Used: Node.js
 
-###  Parking Management
-- Parking Management Service: [https://github.com/lithesh2023/Parking_Management](https://github.com/lithesh2023/Parking_Management)
-- Swagger end points for User profile service: TBD
-- Database Used: Postgres SQL
-- Technology Used: TBD
-  
-###  Navigation Service
-- Navigation Service: [https://github.com/lithesh2023/Navigation_Service](https://github.com/lithesh2023/Navigation_Service)
-- Swagger end points for User profile service: TBD
-- Database Used: Postgres SQL
-- Technology Used: TBD
 
 
   
