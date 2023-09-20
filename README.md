@@ -201,7 +201,8 @@ We have developed the UI application and integrated with the back-end microservi
 - Swagger end points for User profile service: [http://localhost:5000/api-docs/](http://localhost:5000/api-docs/)
 - Database Used: Postgres SQL
 - Technology Used: Nodejs with express
-  
+- CI/CD Pipeline :[https://github.com/lithesh2023/User_Profile_Service/actions/workflows/ci-cd.yml](https://github.com/lithesh2023/User_Profile_Service/actions/workflows/ci-cd.yml)
+
 **Login/Signup Options**
 
    1. Application specific Login
@@ -217,11 +218,13 @@ We have developed the UI application and integrated with the back-end microservi
 ### 2. Payment Service
 - Used for payment services for parking slot booking.
 - User Profile Service: [https://github.com/lithesh2023/Payment_Service](https://github.com/lithesh2023/Payment_Service)
-- Swagger end points for User profile service: [http://localhost:3000/docs/](http://localhost:3000/docs/)
+- Swagger end points for Payment service: [http://localhost:3000/docs/](http://localhost:3000/docs/)
 - Database Used: Postgres SQL
 - Technology Used: Next.js
-
+- CI/CD Pipeline : [https://github.com/lithesh2023/Payment_Service/actions/workflows/CI_CD.yml](https://github.com/lithesh2023/Payment_Service/actions/workflows/CI_CD.yml)
+  
  **Screenshots**
+  
  <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/ef323a5c-5791-4ba5-8e32-6b14e3108986">
 
 ### 3. Booking Service:
@@ -229,10 +232,11 @@ We have developed the UI application and integrated with the back-end microservi
 - Used for Booking related services. Booking parkig slot, Adding vehicle for user , Adding slots, Removing Vehicle, Delete Booking
 - Booking Service: [https://github.com/lithesh2023/Booking_Service](https://github.com/lithesh2023/Booking_Service)
 - End points for Booking Service:
+  
   <img width="294" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/dfd78b28-ccf7-4194-bdc9-5ddbe281496b">
 - Database Used: Postgres SQL
 - Technology Used: Node.js
-
+- CI/CD Pipeline : [https://github.com/lithesh2023/Booking_Service/actions/workflows/CI_CD.yml](https://github.com/lithesh2023/Booking_Service/actions/workflows/CI_CD.yml)
 
 
   
