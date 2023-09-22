@@ -1,9 +1,9 @@
 
 | Name | Payment Service |  |
 |--|--|--|
-| **Description** |  |
+| **Description** |Used for payment services for parking slot booking.|
 | **Capabilities** |  |
-|Payment Services |  |
+| | Payment Services | 
 | **Service API** |  | 
 | **Commands** |**Queries**| **Events Published** |
 |Synchronous: |||
@@ -26,4 +26,4 @@
   |Invokes|Subscribes to||
   |Booking Service|NA||
   |- payment()|||
- 
+
