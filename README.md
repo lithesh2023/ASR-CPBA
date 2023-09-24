@@ -25,10 +25,10 @@ Objective of the application is to resolve –
 
 - **Booking**-Booktheparkinginadvance(maximum2daysadvance)and navigate to the designated spot using integrated navigation features. Users can also make cashless payments for parking fees through secure online transactions, eliminating the need for physical tickets and reducing waiting times.
 - **History** –Booking history,
-- **ParkingManagement(AddParkingslots/pricing/billing–admin features)**
-- **Integratedrivingdirection(O)**
-- **IntegrationwithChatsystem**
-- **IntegrationwithIoT(O)**
+- **Parking Management(AddParkingslots/pricing/billing–admin features)**
+- **Integrate driving direction(O)**
+- **Integration with Chatsystem**
+- **Integration with IoT(O)**
 
 ## Intended Audience
 ***Following are the intended audiences for the system***
