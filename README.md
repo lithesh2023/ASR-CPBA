@@ -96,6 +96,10 @@ Objective of the application is to resolve –
 ## Container Diagram
 <img width="452" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/2fca5f07-4262-4cad-a898-0fc4b5cebcdb">
 
+## Deployment Diagram
+
+![DeploymentDiagram](https://github.com/lithesh2023/ASR-CPBA/assets/138496677/f89ad327-b4a0-4537-8dd0-6f646fe14339)
+
 
 ## Branching Strategy
 We are opting for Trunk Based branching (development) Strategy. This involves developers integrating their changes directly into a shared trunk (master) at least once a day. This shared trunk is always in a releasable state. Developers can pull from this trunk, create a local repository, and then push the code to the shared trunk.
