@@ -103,7 +103,8 @@ Objective of the application is to resolve –
 
 ## Deployment Diagram
 
-![DeploymentDiagram](https://github.com/lithesh2023/ASR-CPBA/assets/138496677/f89ad327-b4a0-4537-8dd0-6f646fe14339)
+<img width = "600" alt="container diagram" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/f89ad327-b4a0-4537-8dd0-6f646fe14339">
+
 
 
 ## Branching Strategy
