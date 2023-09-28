@@ -94,7 +94,10 @@ Objective of the application is to resolve –
 
 
 ## Container Diagram
-![Container Diagram (1)](https://github.com/lithesh2023/ASR-CPBA/assets/138496677/18a05435-6019-40e1-979c-cbdad8ef53e0)
+
+
+<img width = "600" alt="container diagram" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/18a05435-6019-40e1-979c-cbdad8ef53e0">
+
 
 
 
