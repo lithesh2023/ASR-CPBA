@@ -94,7 +94,8 @@ Objective of the application is to resolve –
 
 
 ## Container Diagram
-<img width="1371" alt="Container diagram with API Gateway" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/10565a9d-04b5-4b02-80a6-e623992ab310">
+![Container Diagram (1)](https://github.com/lithesh2023/ASR-CPBA/assets/138496677/18a05435-6019-40e1-979c-cbdad8ef53e0)
+
 
 
 ## Deployment Diagram
