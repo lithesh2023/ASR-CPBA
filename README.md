@@ -216,6 +216,7 @@ We have developed the UI application and integrated with the back-end microservi
 - Used for User registration, Authentication and Autherization. This is using Token based Authentication.
 - User Profile Service: [https://github.com/lithesh2023/User_Profile_Service](https://github.com/lithesh2023/User_Profile_Service)
 - Swagger end points for User profile service: [http://localhost:5000/api-docs/](http://localhost:5000/api-docs/)
+- Postman URL: [https://documenter.getpostman.com/view/9855947/2s9YC8wr4d#f2948803-e3a9-462c-a32e-a4e59afe1b75](https://documenter.getpostman.com/view/9855947/2s9YC8wr4d#f2948803-e3a9-462c-a32e-a4e59afe1b75)
 - Database Used: Postgres SQL
 - Technology Used: Nodejs with express
 - CI/CD Pipeline :[https://github.com/lithesh2023/User_Profile_Service/actions/workflows/ci-cd.yml](https://github.com/lithesh2023/User_Profile_Service/actions/workflows/ci-cd.yml)
@@ -250,10 +251,13 @@ We have developed the UI application and integrated with the back-end microservi
 - Booking Service: [https://github.com/lithesh2023/Booking_Service](https://github.com/lithesh2023/Booking_Service)
 - End points for Booking Service:
   
+  Postman URL: [https://documenter.getpostman.com/view/9855947/2s9YC8wr4d#f2948803-e3a9-462c-a32e-a4e59afe1b75](https://documenter.getpostman.com/view/9855947/2s9YC8wr4d#f2948803-e3a9-462c-a32e-a4e59afe1b75)
+  
   <img width="294" alt="image" src="https://github.com/lithesh2023/ASR-CPBA/assets/138496677/dfd78b28-ccf7-4194-bdc9-5ddbe281496b">
 - Database Used: Postgres SQL
 - Technology Used: Node.js
 - CI/CD Pipeline : [https://github.com/lithesh2023/Booking_Service/actions/workflows/CI_CD.yml](https://github.com/lithesh2023/Booking_Service/actions/workflows/CI_CD.yml)
+- Postman URL: [https://documenter.getpostman.com/view/9855947/2s9YC8wr4d#f2948803-e3a9-462c-a32e-a4e59afe1b75](https://documenter.getpostman.com/view/9855947/2s9YC8wr4d#f2948803-e3a9-462c-a32e-a4e59afe1b75)
 
 
   
