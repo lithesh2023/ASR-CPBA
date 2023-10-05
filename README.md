@@ -122,6 +122,9 @@ This regular integration enables developers to view each other’s changes quick
 - Smaller iterations allow teams to keep track of all the changes while reducing code conflicts and improving overall code quality.
 
 ## CICD pipeline
+
+<img width="894" alt="Screenshot 2023-10-05 at 3 04 36 PM" src="https://github.com/lithesh2023/ASR-CPBA/assets/16690487/b9af7d4e-a56d-4532-b8da-ea6204537b57">
+
 We have implemented CICD pipeline for our front-end app
 Repo for the frond-end application (React): [https://github.com/lithesh2023/car-parking-booking-app-ui](https://github.com/lithesh2023/car-parking-booking-app-ui)
 
